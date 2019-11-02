@@ -208,7 +208,7 @@ All dependencies will be installed in the container, without affecting the base 
 
 ### 1. Clone git
 
-    $ git https://github.com/crosswire/xiphos.git
+    $ git clone https://github.com/crosswire/xiphos.git
 
 ### 2. Create and enter the build directory
 
@@ -255,7 +255,7 @@ Build Xiphos On *Debian*, *Ubuntu*, or *Linux Mint*:
 
 ### 2. Clone git
 
-    $ git https://github.com/crosswire/xiphos.git
+    $ git clone https://github.com/crosswire/xiphos.git
 
 ### 3. Create and enter the build directory
 
